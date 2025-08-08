@@ -21,6 +21,18 @@ header {
     text-align: center;
 }
 
-#baner {
-    
+#perfume {
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+#perfume  img {
+    height: 500px;
+}
+
+#perfume > p {
+    font-size: 1.3em;
+    font-family: Arial, Helvetica, sans-serif
 }
